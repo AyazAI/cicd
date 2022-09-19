@@ -1,0 +1,6 @@
+steps:
+  - name: ubuntu
+    script: echo "Hi guys Cloud build in action"
+
+options:
+  logging: CLOUD_LOGGING_ONLY
